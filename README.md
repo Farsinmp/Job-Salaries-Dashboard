@@ -1,6 +1,7 @@
 # Job-Salaries-Dashboard
 
 ##Overview
+
 The Job Salaries Dashboard is a data visualization project built using Tableau to explore salary trends across various job roles, industries, and locations. It provides interactive insights into job market compensation, enabling users to make informed career and hiring decisions.
 
 ##🔍 Objectives
